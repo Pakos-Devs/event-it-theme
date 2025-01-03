@@ -1,0 +1,53 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_4P3yT9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yRWXqx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Event management",
+            "heading_size": "h1"
+          }
+        },
+        "text_Ykp6Tm": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Affidati a professionisti esperti per organizzare eventi di successo. </h2><h2>Event-IT, in collaborazione con i migliori partner di eventi informatici, offre un servizio completo di gestione e pianificazione per eventi di qualsiasi scala, dalle conferenze ai workshop.  </h2>"
+          }
+        },
+        "text_fKhhKC": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dalla scelta della location alla gestione degli ospiti, fino alla personalizzazione dei contenuti, il nostro team ti garantisce un’esperienza impeccabile. Semplifica il processo organizzativo e concentrati solo sui tuoi obiettivi. Con noi potrai trovare i migliori moderatori del settore IT e le migliori agenzie per l’organizzazione del tuo evento perfetto. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yRWXqx",
+        "text_Ykp6Tm",
+        "text_fKhhKC"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_4P3yT9"
+  ]
+}

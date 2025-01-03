@@ -1,0 +1,53 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_4P3yT9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yRWXqx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sponsorizzazione Eventi",
+            "heading_size": "h1"
+          }
+        },
+        "text_Ykp6Tm": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Vuoi far conoscere il tuo brand o spingere la partecipazione a un evento? Con Event-IT puoi scegliere tra diverse opzioni di sponsorizzazione per massimizzare la tua visibilità e creare engagement con il pubblico di settore. </h2>"
+          }
+        },
+        "text_haxMDV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Personalizza la tua strategia di sponsorizzazione: dall’esposizione del logo durante gli eventi, alle campagne digitali mirate fino alle collaborazioni speciali con inviti diretti ai nostri iscritti interessati al tuo evento. Fai emergere il tuo marchio in un panorama altamente competitivo. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yRWXqx",
+        "text_Ykp6Tm",
+        "text_haxMDV"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_4P3yT9"
+  ]
+}

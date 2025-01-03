@@ -1,0 +1,53 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_4P3yT9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yRWXqx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ricerca sponsor",
+            "heading_size": "h1"
+          }
+        },
+        "text_Ykp6Tm": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Hai un’idea per un evento, ma cerchi il sostegno economico giusto? Event-IT ti aiuta a entrare in contatto con sponsor interessati a investire nelle tue iniziative. </h2>"
+          }
+        },
+        "text_MX3T4M": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Attraverso il nostro portale, puoi presentare la tua proposta di evento e attirare l’attenzione di sponsor pronti a supportarti. Costruisci partnership strategiche che valorizzano il tuo progetto. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yRWXqx",
+        "text_Ykp6Tm",
+        "text_MX3T4M"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_4P3yT9"
+  ]
+}

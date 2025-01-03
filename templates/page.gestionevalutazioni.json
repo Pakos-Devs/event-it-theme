@@ -1,0 +1,53 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "rich_text_4P3yT9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yRWXqx": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gestione delle valutazioni degli eventi",
+            "heading_size": "h1"
+          }
+        },
+        "text_Ykp6Tm": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Il feedback è essenziale per migliorare. Con Event-IT puoi gestire e valutare gli eventi a cui partecipi, lasciando recensioni e consultando opinioni di altri partecipanti. </h2>"
+          }
+        },
+        "text_MX3T4M": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Misura il successo dei tuoi eventi con strumenti di valutazione dedicati. Ottieni insight preziosi dai partecipanti e perfeziona ogni dettaglio per offrire esperienze sempre migliori. Vuoi fare un passo avanti e usare l’IA durante il tuo evento? Contattaci per conoscere come. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_yRWXqx",
+        "text_Ykp6Tm",
+        "text_MX3T4M"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_4P3yT9"
+  ]
+}

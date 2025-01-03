@@ -1,0 +1,53 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_4P3yT9": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_A7tFTJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Comunicazione e Promozione",
+            "heading_size": "h1"
+          }
+        },
+        "text_Ykp6Tm": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Amplifica la visibilità dei tuoi eventi IT con il supporto di Event-IT. </h2><h2>Attraverso il nostro portale, hai la possibilità di promuovere ogni iniziativa tecnologica, commerciale o libera, raggiungendo un pubblico altamente qualificato di professionisti del settore.</h2><h4></h4>"
+          }
+        },
+        "text_Ci8ntQ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Grazie a strumenti di promozione mirata, il tuo evento sarà visibile alle community IT più attive in Italia. Pubblica il tuo evento e utilizza le nostre opzioni di comunicazione digitale per raggiungere CIO, sviluppatori, analisti e altri protagonisti dell'innovazione.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_A7tFTJ",
+        "text_Ykp6Tm",
+        "text_Ci8ntQ"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_4P3yT9"
+  ]
+}
